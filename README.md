@@ -1,7 +1,7 @@
-👋 Hi, I'm Filip Bernhard
-🎓 Student in web development @ ESIEE-IT
-🇫🇷 Based in Paris, France
-💼 Looking for an alternance mainly in web developpement — starting ASAP
+👋 Hi, I'm Filip Bernhard  
+🎓 Student in web development @ ESIEE-IT  
+🇫🇷 Based in Paris, France  
+💼 Looking for an alternance mainly in web developpement — starting ASAP  
 
 ---
 
@@ -32,9 +32,9 @@ NPM
 🚀 Game Discounts
 Front-end app using a public API in order to display games currently discounted. There's a search feature as well as the possibility to compare different resellers prices.
 
-→ React.Js, Typescript
-→ Fetching data from an API using the React.Js framework
-→ https://filipbernhard.com/game-discounts
+→ React.Js, Typescript  
+→ Fetching data from an API using the React.Js framework  
+→ https://filipbernhard.com/game-discounts  
 
 ## Currently learning
 
