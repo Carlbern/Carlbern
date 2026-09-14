@@ -48,5 +48,5 @@ Front-end app using a public API in order to display games currently discounted.
 
 ## Contact
 
-📧 Filipbarrdal@gmail.com
+📧 Filipbarrdal@gmail.com  
 🌐 Filipbernhard.com
