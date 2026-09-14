@@ -1,16 +1,46 @@
-## Hi there 👋
 
-<!--
-**Carlbern/Carlbern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Filip Bernhard
+🎓 Student in web development @ ESIEE-IT
+🇫🇷 Based in Paris, France
+💼 Looking for an alternance mainly in web developpement — starting ASAP
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+Short 2–4 sentence introduction...
+
+## Tech stack
+
+Languages:
+...
+
+Frameworks:
+...
+
+Tools:
+...
+
+## Featured projects
+
+🚀 Game Discounts
+
+→ technologies
+→ what you learned
+→ link
+
+## Currently learning
+
+- Java
+- Docker
+
+## Education
+
+🎓 Higher Education Degree, specialization in information technology — University West
+📍 Trollhättan, Sweden | 2024-2026
+
+## Contact
+
+📧 Filipbarrdal@gmail.com
+💼 
+🌐 Filipbernhard.com
