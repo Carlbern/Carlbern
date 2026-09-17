@@ -42,6 +42,8 @@ Front-end app using a public API in order to display games currently discounted.
 - Docker
 
 ## Education
+🎓 RNCP Niveau 6, Développement web - ESIEE-IT - La Coding Factory 
+📍 Cergy, France | 2026-2028 
 
 🎓 Higher Education Degree, specialization in information technology — University West
 📍 Trollhättan, Sweden | 2024-2026
