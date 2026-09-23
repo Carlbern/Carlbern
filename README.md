@@ -7,9 +7,9 @@
 
 ## About me
 
-My name is Filip Bernhard. I'm a recent graduate in web development in search of opportunities in Paris so further my skills. Currently I'm admitted to ESIEE-IT «Le Coding Factory» and plan on starting my next chapter as an "alternant" student, meaning I'll spend 2 weeks at a company and 2 weeks in school.
+My name is Filip Bernhard. I'm a recent graduate in web development in search of opportunities in Paris to further my skills.
 
-Right now I'm learning Java through different online courses, a language i will also continue learning in my education. Other than that i have ambitions learning Laravel, since i really enjoy working with PHP and it seems like a fantastic for future back-ends.
+Right now I'm learning Java through different online courses, a language i will also continue learning in my education. Other than that i have ambitions to learn Laravel, since i really enjoy working with PHP and it seems like a fantastic option for future back-ends.
 
 ## Tech stack
 
